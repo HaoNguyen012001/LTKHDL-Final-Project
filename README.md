@@ -1,1 +1,4 @@
-# Nguyễn Nhật Hảo: 19120501 || HaoNguyen012001
+|    Họ Tên    |    MSSV    |
+| :---         |        ---:|
+| Tạ Tiến Thành Đạt| 1712333    |
+| Nguyễn Nhật Hảo| 19120501   |
